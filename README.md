@@ -13,3 +13,5 @@ To save the output, simply click the "Save Outputs" button on the Application.
 "All_Scenario_Signals.mat" contains six position signals for regular interval locations and their irradiances.
 
 Open and Run "Irradiance__.slx" to observe the controller actions based on the "All_Scenario_Signals.mat" signals.
+
+Open and read "00_Submission - Abridged.pdf" for an exciting adventure.
